@@ -280,6 +280,10 @@
     - [Linear SVM 和 LR 有什么异同](机器学习/支持向量机/支持向量机.md#L164)
 # 深度学习
 - dropout
+    - [dropout如何作用的](深度学习/dropout.md#L164)
+    - [L1为什么在深度学习中不常用](深度学习/dropout.md#L164)
+    - [用贝叶斯机率说明Dropout的原理](深度学习/dropout.md#L164)
+    - [为什么有效](深度学习/dropout.md#L164)
 - batch_normalization
     - [你觉得bn过程是什么样的](深度学习/batch_normalization.md#L164)
     - [手写一下bn过程](深度学习/batch_normalization.md#L164)
@@ -329,6 +333,9 @@
     - [LDA算法里面Dirichlet分布的两个参数alpha和beta怎样确定？trick?](自然语言处理/LDA.md#L164)
     - [使用过LDA，你有什么问题？](自然语言处理/LDA.md#L164)
     - [你用真实用过吗？对比过效果吗？](自然语言处理/LDA.md#L164)
+    - [超参数\alpha \beta对训练的影响？](自然语言处理/LDA.md#L164)
+    - [LDA你会有哪些常规的预处理步骤](自然语言处理/LDA.md#L164)
+    - [LDA的最大似然不好求的原因？为什么不直接用EM？为什么LDA引入了一堆数学理论？](自然语言处理/LDA.md#L164)
 - LSTM
 - GRU
 - Bert：[实现/使用的代码](https://github.com/sladesha/deep_learning/tree/master/Bert)
