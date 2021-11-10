@@ -279,6 +279,8 @@
     - [各种机器学习的应用场景分别是什么？例如，k近邻,贝叶斯，决策树，svm，逻辑斯蒂回归](机器学习/支持向量机/支持向量机.md#L164)
     - [Linear SVM 和 LR 有什么异同](机器学习/支持向量机/支持向量机.md#L164)
 # 深度学习
+- 框架
+    - [为什么要用深度召回](深度学习/框架.md#L164)
 - dropout
     - [dropout如何作用的](深度学习/dropout.md#L164)
     - [L1为什么在深度学习中不常用](深度学习/dropout.md#L164)
@@ -356,7 +358,15 @@
     - [elmo、GPT、bert三者之间有什么区别](自然语言处理/Bert.md#L164)
 - 文本相似度计算
     - [有哪些常用的方法](自然语言处理/文本相似度计算.md#L164)
-
+- TextCNN
+    - [讲一下textcnn](自然语言处理/TextCNN.md#L164)
+    - [textCNN中核的作用](自然语言处理/TextCNN.md#L164)
+    - [max-pooling选择的目的](自然语言处理/TextCNN.md#L164)
+    - [textcnn和fasttext区别](自然语言处理/TextCNN.md#L164)
+    - [如果你知道上面说的核心问题，那么有什么解决方案吗？](自然语言处理/TextCNN.md#L164)
+    - [为什么卷积核都不大？且常见都都是奇数？](自然语言处理/TextCNN.md#L164)
+    - [为什么不建议用句长作为核大小](自然语言处理/TextCNN.md#L164)
+    - [padding是不是对最后结果没有影响](自然语言处理/TextCNN.md#L164)
 # 推荐
 - DIN：[实现/使用的代码](https://github.com/sladesha/deep_learning/tree/master/DeepInterestNetwork)
     - [主要使用了什么机制](推荐/DIN.md#L164)
